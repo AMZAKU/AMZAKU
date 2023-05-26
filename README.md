@@ -7,7 +7,7 @@
 
 - 🤝 Developer at CM **Clase Media**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Discord: AMZ#1110</h3>
 <p align="left">
 </p>
 
