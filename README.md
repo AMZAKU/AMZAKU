@@ -5,7 +5,6 @@
 
 - 👯 Own and mantain [ZoneBox](https://zonebox.es/)
 
-- 🤝 Developer at CM **Clase Media**
 
 <h3 align="left">Discord: AMZ#1110</h3>
 <p align="left">
