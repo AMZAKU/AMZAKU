@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="left">Languages and Tools</h3>
 
 ###
 
@@ -38,6 +38,6 @@
 
 ###
 
-<img src="https://cdn.discordapp.com/attachments/855534734670823455/1243945121028898927/snake.svg" alt="Snake animation" />
+<!--<img src="https://cdn.discordapp.com/attachments/855534734670823455/1243945121028898927/snake.svg" alt="Snake animation" />-->
 
 ###
