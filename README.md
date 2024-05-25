@@ -38,6 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/amzaku/amzaku/output/snake.svg" alt="Snake animation" />
+<img src="https://cdn.discordapp.com/attachments/855534734670823455/1243945121028898927/snake.svg" alt="Snake animation" />
 
 ###
