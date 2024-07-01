@@ -33,7 +33,7 @@
 
   - 🗺️ My native language is Spanish, but I also speak English.
 
-  - ☁️ I've keen interest in backend development so I'm learning .NET
+  - ☁️ I'm currently learning .NET
 
   - 📫 Feel free to reach me out on Discord [ameseta](https://discordapp.com/users/798302759174013009)
 
