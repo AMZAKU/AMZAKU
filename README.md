@@ -29,9 +29,7 @@
 
   - 🔭 I'm currently developing multiplatform applications and FiveM scripts as a hobby
 
-  - 🌱 Studying computer science here in Spain
-
-  - 🗺️ My native language is Spanish, but I also speak English.
+  - 🗺️ My native language is Spanish, but I can also speak English.
 
   - ☁️ I'm currently learning .NET
 
